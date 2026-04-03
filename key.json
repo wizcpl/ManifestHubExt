@@ -1,0 +1,16 @@
+{
+    "appid": "3495730",
+    "type": "Game",
+    "name": "Lucid Blocks",
+    "isfreeapp": "0",
+    "depot": {
+        "3495731": {
+            "manifests": {
+                "public": {
+                    "gid": "620783789656177605"
+                }
+            },
+            "decryptionkey": "5787592669080ba4b91a5ca38ff3070ba3d207ec1a61fb65c53110bebe4ec916"
+        }
+    }
+}
