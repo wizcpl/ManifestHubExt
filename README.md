@@ -1,4 +1,4 @@
-# ManifestHub
+# ManifestHub (ORIGINAL REPO GOT BANNED OR HIDDEN)
 
 Steam Depot Manifest Cache
 
