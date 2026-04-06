@@ -1,0 +1,16 @@
+{
+    "appid": "4100940",
+    "type": "DLC",
+    "name": "Poppy Playtime Chapter 5",
+    "isfreeapp": "0",
+    "depot": {
+        "4100940": {
+            "manifests": {
+                "public": {
+                    "gid": "6752305149208661743"
+                }
+            },
+            "decryptionkey": "527fa72d80412026553480eaf2d04230eee3d58c07d133d290b72be6d664fe75"
+        }
+    }
+}
